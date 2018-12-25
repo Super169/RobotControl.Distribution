@@ -17,6 +17,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2018-12-25 | 2.1.99.10 | New command to enable/disable event handler |
 | 2018-12-20 | 2.1.99.9 | Update configuration file, new sub-system board command for PSX control |
 | 2018-12-10 | 2.1.99.8 | Initial version for RobotContol.Distribution |
 
