@@ -1,6 +1,6 @@
 # RobotControl.Distribution
 
-This repository is used for distrubtion of RobotControl firmware only.
+This repository is used for distribution of RobotControl firmware only.
 
 ## Release Version
 
@@ -8,6 +8,7 @@ Version history (starting from 2.1.1.2):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-01-14 | 2.2.0.0 | Add Event Handler to define rebot response |
 | 2018-10-14 | 2.1.1.2 | Initial version for RobotContol.Distribution |
 
 
@@ -17,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-01-14 | 2.2.0.0 | Release version |
 | 2018-12-25 | 2.1.99.10 | New command to enable/disable event handler |
 | 2018-12-20 | 2.1.99.9 | Update configuration file, new sub-system board command for PSX control |
 | 2018-12-10 | 2.1.99.8 | Initial version for RobotContol.Distribution |
