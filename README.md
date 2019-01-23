@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-01-23 | 2.2.1.1 | Setting frequency in reading sonic sensor |
 | 2019-01-21 | 2.2.1.0 | Event handling for ultra sonic sensor |
 | 2019-01-14 | 2.2.0.0 | Release version |
 | 2018-12-25 | 2.1.99.10 | New command to enable/disable event handler |
