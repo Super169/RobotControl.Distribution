@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-01-31 | 2.2.1.3 | Add maze solver (just follow left side wall, will be failed if there has loop) |
 | 2019-01-24 | 2.2.1.2 | Support multiple device of same type |
 | 2019-01-23 | 2.2.1.1 | Setting frequency in reading sonic sensor |
 | 2019-01-21 | 2.2.1.0 | Event handling for ultra sonic sensor |
