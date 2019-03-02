@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-03-03 | 2.2.1.4 | Add action to turn sonice sensor on/off |
 | 2019-01-31 | 2.2.1.3 | Add maze solver (just follow left side wall, will be failed if there has loop) |
 | 2019-01-24 | 2.2.1.2 | Support multiple device of same type |
 | 2019-01-23 | 2.2.1.1 | Setting frequency in reading sonic sensor |
