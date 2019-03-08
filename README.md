@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-03-09 | 2.2.1.5 | Add startup action; use servo to change direction for maze solver. |
 | 2019-03-03 | 2.2.1.4 | Add action to turn sonice sensor on/off |
 | 2019-01-31 | 2.2.1.3 | Add maze solver (just follow left side wall, will be failed if there has loop) |
 | 2019-01-24 | 2.2.1.2 | Support multiple device of same type |
@@ -35,7 +36,7 @@ The version number has the format as MAJOR.MINOR.ENHANCEMENT.FIX
 1. MAJOR - may involve hardware change
 2. MINOR - with some new feature added
 3. ENHANCEMENT - just has minor improvement on existing features
-4. Fix - fix on existing version
+4. Fix - fix on existing version, or some testing code added
 
 Note: 99 is used for internal test on next version.
 For example, 2.1.99.? is the internal test version for 2.2
