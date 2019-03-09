@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-03-09 | 2.2.1.6 | Fix maze issue: no action returned after detection |
 | 2019-03-09 | 2.2.1.5 | Add startup action; use servo to change direction for maze solver. |
 | 2019-03-03 | 2.2.1.4 | Add action to turn sonice sensor on/off |
 | 2019-01-31 | 2.2.1.3 | Add maze solver (just follow left side wall, will be failed if there has loop) |
