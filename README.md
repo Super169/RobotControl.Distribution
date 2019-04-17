@@ -18,6 +18,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-04-17 | 2.2.1.10 | Add MP3 command to send MP3-TF-16P instruction directly |
 | 2019-04-11 | 2.2.1.9 | Add new command to set action speed |
 | 2019-03-31 | 2.2.1.8 | Fix bugs in reset default config: missing version number |
 | 2019-03-26 | 2.2.1.7 | Fix bugs in saving maze servo time |
