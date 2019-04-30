@@ -8,6 +8,7 @@ Version history (starting from 2.1.1.2):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-04-30 | 2.3.0.0 | Support sonic sencor, set action speed |
 | 2019-01-14 | 2.2.0.0 | Add Event Handler to define rebot response |
 | 2018-10-14 | 2.1.1.2 | Initial version for RobotContol.Distribution |
 
@@ -18,6 +19,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-04-30 | 2.3.0.0 | Release version |
 | 2019-04-17 | 2.2.1.10 | Add MP3 command to send MP3-TF-16P instruction directly |
 | 2019-04-11 | 2.2.1.9 | Add new command to set action speed |
 | 2019-03-31 | 2.2.1.8 | Fix bugs in reset default config: missing version number |
@@ -42,6 +44,3 @@ The version number has the format as MAJOR.MINOR.ENHANCEMENT.FIX
 2. MINOR - with some new feature added
 3. ENHANCEMENT - just has minor improvement on existing features
 4. Fix - fix on existing version, or some testing code added
-
-Note: 99 is used for internal test on next version.
-For example, 2.1.99.? is the internal test version for 2.2
