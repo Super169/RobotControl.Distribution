@@ -19,6 +19,7 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
+| 2019-05-10 | 2.3.0.1 | Buf fix on maximum retry setting |
 | 2019-04-30 | 2.3.0.0 | Release version |
 | 2019-04-17 | 2.2.1.10 | Add MP3 command to send MP3-TF-16P instruction directly |
 | 2019-04-11 | 2.2.1.9 | Add new command to set action speed |
