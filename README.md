@@ -11,6 +11,7 @@ Version history (starting from 2.1.1.2):
 | 2019-04-30 | 2.3.0.0 | Support sonic sencor, set action speed |
 | 2019-01-14 | 2.2.0.0 | Add Event Handler to define rebot response |
 | 2018-10-14 | 2.1.1.2 | Initial version for RobotContol.Distribution |
+| 2019-05-10 | 2.3.0.1 | Bug fix on maximum retry setting |
 
 
 ## Beta Version 
@@ -19,7 +20,8 @@ Version history (starting from 2.1.99.8):
 
 | Date | Version | Remark |
 | ------ | ------ | ------ |
-| 2019-05-10 | 2.3.0.1 | Buf fix on maximum retry setting |
+| 2019-05-13 | 2.3.1.0 | Add counter for event condition & action |
+| 2019-05-10 | 2.3.0.1 | Bug fix on maximum retry setting |
 | 2019-04-30 | 2.3.0.0 | Release version |
 | 2019-04-17 | 2.2.1.10 | Add MP3 command to send MP3-TF-16P instruction directly |
 | 2019-04-11 | 2.2.1.9 | Add new command to set action speed |
